@@ -3,12 +3,8 @@
 #installation use react
 
 ```bash
-
-```
-
 npm create vite@latest name-of-your-project -- --template react
-
-# follow prompts
+```
 
 cd < project name>
 
